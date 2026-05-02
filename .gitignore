@@ -1,0 +1,17 @@
+# Backend (Spring Boot)
+expense-intelligence-system/target/
+*.log
+
+# Frontend (React)
+expense-app-frontend/node_modules/
+expense-app-frontend/build/
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
