@@ -116,12 +116,6 @@ npm start
 
 ---
 
-##  Screenshots (Add later)
-
-> You can add UI screenshots here for better presentation.
-
----
-
 ##  Future Enhancements
 
 * Personal Finance Upgrade (Income + Expense tracking)
@@ -132,10 +126,4 @@ npm start
 
 ---
 
-##  Author
-
-**Hysha Singh Dadwal**
-B.Tech CSE | Aspiring Software Developer
-
----
 
